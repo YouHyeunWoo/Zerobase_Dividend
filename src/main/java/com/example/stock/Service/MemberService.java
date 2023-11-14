@@ -2,7 +2,7 @@ package com.example.stock.Service;
 
 import com.example.stock.exception.impl.AlreadyExistUserException;
 import com.example.stock.model.Auth;
-import com.example.stock.model.MemberEntity;
+import com.example.stock.persist.entity.MemberEntity;
 import com.example.stock.persist.MemberRepository;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

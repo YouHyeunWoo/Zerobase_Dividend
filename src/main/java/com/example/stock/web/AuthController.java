@@ -2,7 +2,7 @@ package com.example.stock.web;
 
 import com.example.stock.Service.MemberService;
 import com.example.stock.model.Auth;
-import com.example.stock.model.MemberEntity;
+import com.example.stock.persist.entity.MemberEntity;
 import com.example.stock.security.TokenProvider;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

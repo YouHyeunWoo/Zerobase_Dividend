@@ -1,4 +1,4 @@
-package com.example.stock.model;
+package com.example.stock.persist.entity;
 
 import lombok.*;
 import org.springframework.security.core.GrantedAuthority;
